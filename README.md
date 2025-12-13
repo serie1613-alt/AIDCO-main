@@ -29,7 +29,8 @@ Implementación de sistemas telefónicos empresariales, VoIP, conmutadores y cab
 ## 🧩 **Características de AIDCO**
 - Personal capacitado y certificado.
 - Instalaciones limpias, ordenadas y bajo normas.
-- Tecnología de última generación.
+- Tecnología de última generación.<img width="1024" height="1024" alt="ChatGPT Image 7 dic 2025, 03_21_34 p m" src="https://github.com/user-attachments/assets/a76b89ba-5ae3-4dc9-be74-f3a471dbad58" />
+
 - Soporte técnico especializado.
 - Soluciones a medida para cada cliente.
 
