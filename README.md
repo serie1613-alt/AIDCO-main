@@ -37,3 +37,7 @@ Implementación de sistemas telefónicos empresariales, VoIP, conmutadores y cab
 ---
 
 ## 📂 **Estructura del Proyecto**
+
+
+<img width="1536" height="1024" alt="1" src="https://github.com/user-attachments/assets/7131325a-f80b-419c-b4d3-35d648396a7b" />
+
